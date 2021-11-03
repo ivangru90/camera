@@ -1,10 +1,10 @@
-# fashion_segmentation
+# Camera application
 
-Application allow you to create images and videos from all available cameras. Images/videos will be saved in /data/images, ie. for /data/videos for videos.
+Application allow you to create images and videos from all available cameras on you computer. Images/videos will be saved in /data/images, ie. for /data/videos for videos.
 
-## Camera application
+## Requirements
 
-Requirements:
+Have to be installed:
 * python 3.9
 * have openh264-1.8.0-win64.dll in application folder for mp4 video format
 
